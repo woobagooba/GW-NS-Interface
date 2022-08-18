@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg baseProfile="tiny" height="941" version="1.2" viewBox="0 0 576 941" width="576" xmlns="http://www.w3.org/2000/svg">
+  <text fill="black" font-family="sans-serif" font-size="20" font-weight="bold" x="72.94108072916657" y="30.28125">
+    Lifecycle Management of IP Endpoints  </text>
+  <text fill="black" font-family="sans-serif" font-size="20" font-weight="bold" x="95.98307291666657" y="53.5625">
+     (excludes application messaging)  </text>
+  <rect fill="white" height="195.83333333333348" width="520.29296875" x="40.18164062499994" y="689.3333333333333"/>
+  <path d="M-443,-790.28125 L-443,0" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="69" x="31.5" y="76.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="42.88216145833326" y="97.27083333333344">
+    Device  </text>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="69" x="31.5" y="898.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="42.88216145833326" y="919.59375">
+    Device  </text>
+  <path d="M26,-790.28125 L26,0" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="53" x="508.5" y="76.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="520.00390625" y="97.27083333333344">
+    NMS  </text>
+  <rect fill="white" height="32" stroke="black" stroke-width="1" width="53" x="508.5" y="898.5"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="520.00390625" y="919.59375">
+    NMS  </text>
+  <path d="M-448,-777 L-448,-777 L24,-777 L32,-769 L32,-729 L-448,-729 L-448,-777" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-776.9479166666666 L23.974609375,-768.9479166666666 L31.974609375,-768.9479166666666" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="113.36848958333326" y="142.64583333333334">
+    Trigger Device startup.  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="113.36848958333326" y="158.1666666666667">
+    Physical or remote restart, restart after FW Update, etc.  </text>
+  <rect fill="white" height="15.333333333333371" width="48.522135416666686" x="10.9075520833332" y="182.44791666666663"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="10.9075520833332" y="195.78124999999997">
+    Restart  </text>
+  <path d="M-442.3183593750001,-708 L-383.6516927083334,-708 Q-375.6516927083334,-708,-375.6516927083334,-700 L-375.6516927083334,-699 Q-375.6516927083334,-691,-383.6516927083334,-691 L-442.3183593750001,-691" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-442,-692 L-442,-692 L-434,-700 L-434,-692 L-434,-684 L-442,-692" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-448,-678 L-448,-678 L24,-678 L32,-670 L32,-615 L-448,-615 L-448,-678" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-678.4375000000001 L23.974609375,-670.4375000000001 L31.974609375,-670.4375000000001" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="91.60416666666663" y="241.15624999999986">
+    Network Access Control.  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="91.60416666666663" y="256.6770833333332">
+    Parties mutually authenticate their identities.  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="91.60416666666663" y="272.19791666666646">
+    Authorize that each is allowed to communicate with the other.  </text>
+  <rect fill="white" height="15.333333333333371" width="220.7421875" x="189.95703125" y="296.4791666666665"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="189.95703125" y="309.81249999999983">
+    Authentication and Authorization  </text>
+  <path d="M-442.31835937500006,-586 L25.974609375,-586" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M25,-586 L25,-586 L17,-594 L17,-586 L17,-578 L25,-586" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-442,-586 L-442,-586 L-434,-594 L-434,-586 L-434,-578 L-442,-586" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-448,-572 L-448,-572 L24,-572 L32,-564 L32,-525 L-448,-525 L-448,-572" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-572.1666666666669 L23.974609375,-564.1666666666669 L31.974609375,-564.1666666666669" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="182.67838541666663" y="347.4270833333332">
+    Address Assignment (assume IPv6)  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="182.67838541666663" y="362.9479166666666">
+    SLAAC, DHCPV6, etc.  </text>
+  <rect fill="white" height="15.333333333333314" width="134.08203125" x="233.287109375" y="387.2291666666666"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="233.287109375" y="400.5624999999999">
+    Assign IPv6 Address  </text>
+  <path d="M-442.31835937500006,-495 L25.974609375,-495" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-442,-495 L-442,-495 L-434,-503 L-434,-495 L-434,-487 L-442,-495" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-448,-481 L-448,-481 L24,-481 L32,-473 L32,-449 L-448,-449 L-448,-481" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-481.41666666666674 L23.974609375,-473.41666666666674 L31.974609375,-473.41666666666674" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="160.47786458333326" y="438.1770833333332">
+    Service Discovery (where is the NMS etc.)  </text>
+  <rect fill="white" height="15.333333333333314" width="87.80598958333337" x="256.42513020833326" y="462.45833333333326"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="256.42513020833326" y="475.7916666666666">
+    NMS Address  </text>
+  <path d="M-442.31835937500006,-420 L25.974609375,-420" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-442,-420 L-442,-420 L-434,-428 L-434,-420 L-434,-412 L-442,-420" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-448,-406 L-448,-406 L24,-406 L32,-398 L32,-328 L-448,-328 L-448,-406" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-406.18750000000006 L23.974609375,-398.18750000000006 L31.974609375,-398.18750000000006" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="147.38541666666663" y="513.40625">
+    Device registers with NMS, declaring ...  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="147.38541666666663" y="528.9270833333334">
+    who it is (identity),  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="147.38541666666663" y="544.4479166666666">
+    what it is(manufacturer, model, serial #, etc),  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="147.38541666666663" y="559.96875">
+    and what it is able to do (capabilities).  </text>
+  <rect fill="white" height="15.333333333333258" width="81.00260416666669" x="259.82682291666663" y="584.25"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="259.82682291666663" y="597.5833333333334">
+    Registration  </text>
+  <path d="M-442.31835937500006,-298 L25.974609375,-298" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M25,-298 L25,-298 L17,-306 L17,-298 L17,-290 L25,-298" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-448,-284 L-448,-284 L24,-284 L32,-276 L32,-252 L-448,-252 L-448,-284" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-284.39583333333337 L23.974609375,-276.39583333333337 L31.974609375,-276.39583333333337" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="129.80078125" y="635.1979166666666">
+    NMS configures the device (tells is how to operate)  </text>
+  <rect fill="white" height="15.333333333333371" width="95.16927083333337" x="252.74348958333326" y="659.4791666666666"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="252.74348958333326" y="672.8125">
+    Confuguration  </text>
+  <path d="M-442.31835937500006,-223 L25.974609375,-223" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-442,-223 L-442,-223 L-434,-231 L-434,-223 L-434,-215 L-442,-223" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-448,-179 L-448,-179 L24,-179 L32,-171 L32,-147 L-448,-147 L-448,-179" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-179.3125 L23.974609375,-171.3125 L31.974609375,-171.3125" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="65.93359374999994" y="740.28125">
+    Device periodically reports important status metrics (what&#39;s going on)  </text>
+  <rect fill="white" height="15.333333333333258" width="42.486979166666686" x="279.08463541666663" y="764.5625"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="279.08463541666663" y="777.8958333333334">
+    Status  </text>
+  <path d="M-442.31835937500006,-117 L25.974609375,-117" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M25,-117 L25,-117 L17,-125 L17,-117 L17,-109 L25,-117" fill="black" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-448,-104 L-448,-104 L24,-104 L32,-96 L32,-57 L-448,-57 L-448,-104" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M23.974609375,-104.08333333333337 L23.974609375,-96.08333333333337 L31.974609375,-96.08333333333337" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="106.8125" y="815.5104166666666">
+    Device asychronously reports exceptional events  </text>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="106.8125" y="831.03125">
+    requiring immediate attention (somethign bad happened)  </text>
+  <rect fill="white" height="15.333333333333371" width="39.466145833333314" x="280.5950520833333" y="855.3125"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="280.5950520833333" y="868.6458333333334">
+    Alarm  </text>
+  <path d="M-442.31835937500006,-27 L25.974609375,-27" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M25.000000000000057,-27 L25.000000000000057,-27 L17.000000000000057,-35 L17.000000000000057,-27 L17.000000000000057,-19 L25.000000000000057,-27" fill="black" stroke="black" stroke-width="1" transform="translate(508.49999999999994 898.5)"/>
+  <path d="M-468.31835937500006,-209.16666666666674 L-468.31835937500006,-13.333333333333258 M51.974609375,-209.16666666666674 L51.974609375,-13.333333333333258" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-468.31835937500006,-13.333333333333258 L51.974609375,-13.333333333333258" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <path d="M-468,-209 L-468,-209 L-468,-193 L-428,-193 L-422,-199 L-422,-209 L-468,-209" fill="white" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+  <text fill="black" font-family="sans-serif" font-size="13.333333333333334" x="45.93359374999994" y="702.6666666666666">
+    loop  </text>
+  <path d="M-468.31835937500006,-209.16666666666674 L51.974609375,-209.16666666666674" fill="none" stroke="black" stroke-width="1" transform="translate(508.5 898.5)"/>
+</svg>
